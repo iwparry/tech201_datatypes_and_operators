@@ -3,7 +3,6 @@
 # Numeric - Int, Float, longs, complex
 # Strings - Text of any type
 # Boolean - True or False
-
 # Operators
 
 # Arithmetic
